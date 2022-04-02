@@ -81,8 +81,10 @@ Ansible was used to automate configuration of the ELK machine. No configuration 
     ANSIBLE LETS YOU QUICKLY AND EASILY DEPLOY MULTIPLE APPLICATIONS THROUGH A YAML PLAYBOOK. 
 
 The playbook implements the following tasks:
-- In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Docker; download image; etc._
+- In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Docker; download image; etc.
+
   -SPECIFY A DIFFERENT GROUP OF MACHINES:
+  
 ![image](https://user-images.githubusercontent.com/96030770/161370193-62bde299-2925-4013-bc10-0c06036774dc.png)
 
 
