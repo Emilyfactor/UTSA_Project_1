@@ -130,6 +130,7 @@ The following screenshot displays the result of running `docker ps` after succes
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
 - List the IP addresses of the machines you are monitoring
+  
   Web-1: 10.0.0.5
   Web-2: 10.0.0.6 
   Web-3: 10.0.0.8
@@ -144,7 +145,7 @@ We have installed the following Beats on these machines:
 
 These Beats allow us to collect the following information from each machine:
 - ![Kibana_metric](https://user-images.githubusercontent.com/96030770/161402591-99bc993d-0deb-4aad-854b-42e257c080ed.PNG)
--![kibana_logs](https://user-images.githubusercontent.com/96030770/161402611-065c3364-741d-477f-a51e-371b887dbb3e.PNG)
+- ![kibana_logs](https://user-images.githubusercontent.com/96030770/161402611-065c3364-741d-477f-a51e-371b887dbb3e.PNG)
 
 
 ### Using the Playbook
