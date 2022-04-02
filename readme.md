@@ -85,12 +85,15 @@ The playbook implements the following tasks:
 
   -SPECIFY A DIFFERENT GROUP OF MACHINES:
   
-![image](https://user-images.githubusercontent.com/96030770/161370193-62bde299-2925-4013-bc10-0c06036774dc.png)
+  ![image](https://user-images.githubusercontent.com/96030770/161370193-62bde299-2925-4013-bc10-0c06036774dc.png)
 
 
 
 
-  -INSTALL DOCKER.IO
+   -INSTALL DOCKER.IO
+   
+   ![image](https://user-images.githubusercontent.com/96030770/161370249-b4b871f6-c1bb-4eda-930b-93f9766b8634.png)
+
 
 
   -INSTALL PYTHON-PIP
