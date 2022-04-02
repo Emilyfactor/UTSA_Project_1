@@ -104,6 +104,8 @@ The playbook implements the following tasks:
 
   -INCREASE VIRTUAL MEMORY
 
+  ![image](https://user-images.githubusercontent.com/96030770/161370361-16c8edda-ac1b-452e-a749-9082ddf25120.png)
+
 
   -DOWNLOAD AND LAUNCH ELK DOCKER CONTAINER
 
