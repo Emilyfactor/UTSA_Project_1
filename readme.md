@@ -108,6 +108,9 @@ The playbook implements the following tasks:
 
 
   -DOWNLOAD AND LAUNCH ELK DOCKER CONTAINER
+  
+  ![image](https://user-images.githubusercontent.com/96030770/161370519-1dc2e1ed-9315-4c5b-b079-1417b955b5bf.png)
+
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
