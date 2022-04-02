@@ -2,7 +2,9 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/diagram_filename.png)
+![image](https://user-images.githubusercontent.com/96030770/161370148-f2b694ea-41b7-492d-a3aa-424cf8688688.png)
+
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yml and config file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -79,23 +81,36 @@ Ansible was used to automate configuration of the ELK machine. No configuration 
     ANSIBLE LETS YOU QUICKLY AND EASILY DEPLOY MULTIPLE APPLICATIONS THROUGH A YAML PLAYBOOK. 
 
 The playbook implements the following tasks:
-- In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Docker; download image; etc._
+- In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Docker; download image; etc.
+
   -SPECIFY A DIFFERENT GROUP OF MACHINES:
+  
+  ![image](https://user-images.githubusercontent.com/96030770/161370193-62bde299-2925-4013-bc10-0c06036774dc.png)
 
 
 
 
-  -INSTALL DOCKER.IO
+   -INSTALL DOCKER.IO
+   
+   ![image](https://user-images.githubusercontent.com/96030770/161370249-b4b871f6-c1bb-4eda-930b-93f9766b8634.png)
+
 
 
   -INSTALL PYTHON-PIP
+
+  ![image](https://user-images.githubusercontent.com/96030770/161370318-762432b4-f872-417c-b9bd-eb9a5e87b9be.png)
 
 
 
   -INCREASE VIRTUAL MEMORY
 
+  ![image](https://user-images.githubusercontent.com/96030770/161370361-16c8edda-ac1b-452e-a749-9082ddf25120.png)
+
 
   -DOWNLOAD AND LAUNCH ELK DOCKER CONTAINER
+  
+  ![image](https://user-images.githubusercontent.com/96030770/161370519-1dc2e1ed-9315-4c5b-b079-1417b955b5bf.png)
+
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
