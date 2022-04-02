@@ -152,15 +152,24 @@ SSH into the control node and follow the steps below:
 - Which URL do you navigate to in order to check that the ELK server is running? http://51.120.82.50:5601/app/kibana (ELKip) 
 
 ## Bonus
-- command to download playbooks 
+- command to download playbooks
+
     -ansible-playbook metricbeat-playbook.yml
     -ansible-playbook filebeat-playbook.yml
+
 - command to create and edit files
+
     -nano filebeat-playbook.yml
     -nano metricbeat-config.yml
+
 - command to log into all VMs while in Jump_Box
+
     -ssh ansible@Web-1 private IP address
+
 - command to log into Jump_Box
+
     -ssh azadmin@Jump-Box-Provisioner Public IP address
+
 - command to update all packages
+
     -sudo apt-get update
