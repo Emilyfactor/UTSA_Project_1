@@ -116,7 +116,15 @@ The playbook implements the following tasks:
 
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
+-![jump-box](https://user-images.githubusercontent.com/96030770/161402701-192bdf6c-07b5-41a0-848e-fdbd71406aaa.PNG)
 
+-![ELK-ps](https://user-images.githubusercontent.com/96030770/161402707-9a1b752e-e0e4-40d2-a8f5-2f552d0c4a48.PNG)
+
+-![Web-1](https://user-images.githubusercontent.com/96030770/161402713-0ef2be71-7dd6-44ee-9d4e-dd231cb83a24.PNG)
+
+-![web-2](https://user-images.githubusercontent.com/96030770/161402718-827cc0e2-7ed7-40f8-aea9-2fd953a918f0.PNG)
+
+-![web-3](https://user-images.githubusercontent.com/96030770/161402727-8bb6ebed-655d-404f-9ffd-784f27cb311e.PNG)
 
 
 ### Target Machines & Beats
@@ -128,13 +136,15 @@ This ELK server is configured to monitor the following machines:
 
 We have installed the following Beats on these machines:
 
--
+-![kibana_filebeat](https://user-images.githubusercontent.com/96030770/161402574-8c01b17a-c613-4f01-8abe-d838be2998bb.PNG)
+
+-![kibana_metricbeat](https://user-images.githubusercontent.com/96030770/161402587-07b5b714-b244-440d-88f2-7274ca96bff0.PNG)
 
 
 
 These Beats allow us to collect the following information from each machine:
-- 
-
+- ![Kibana_metric](https://user-images.githubusercontent.com/96030770/161402591-99bc993d-0deb-4aad-854b-42e257c080ed.PNG)
+-![kibana_logs](https://user-images.githubusercontent.com/96030770/161402611-065c3364-741d-477f-a51e-371b887dbb3e.PNG)
 
 
 ### Using the Playbook
