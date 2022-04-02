@@ -98,6 +98,8 @@ The playbook implements the following tasks:
 
   -INSTALL PYTHON-PIP
 
+  ![image](https://user-images.githubusercontent.com/96030770/161370318-762432b4-f872-417c-b9bd-eb9a5e87b9be.png)
+
 
 
   -INCREASE VIRTUAL MEMORY
