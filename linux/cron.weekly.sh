@@ -1,4 +1,4 @@
- /etc/cron.daily/system.sh                                                   
+/etc/cron.weekly/system.sh                                                  
 
 #!/bin/bash
 

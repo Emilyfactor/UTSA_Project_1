@@ -1,4 +1,4 @@
- /etc/cron.daily/system.sh                                                   
+/home/sysadmin/system.sh                                                   
 
 #!/bin/bash
 
